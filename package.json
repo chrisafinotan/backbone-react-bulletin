@@ -1,0 +1,23 @@
+{
+  "name": "backbone-react-bulletin",
+  "version": "0.0.1",
+  "description": "Bulletin Board App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisafinotan/backbone-react-bulletin.git"
+  },
+  "keywords": [
+    "Backbone",
+    "React"
+  ],
+  "author": "Itsemisan Afinotam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisafinotan/backbone-react-bulletin/issues"
+  },
+  "homepage": "https://github.com/chrisafinotan/backbone-react-bulletin#readme"
+}
